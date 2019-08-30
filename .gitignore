@@ -2,6 +2,7 @@
 *.swo
 *.swp
 *~
+debug
 
 # Ignore weibo data file
 testdata/weibo_data.txt
