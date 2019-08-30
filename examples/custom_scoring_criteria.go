@@ -17,13 +17,14 @@ import (
 	"encoding/gob"
 	"flag"
 	"fmt"
-	"github.com/huichen/wukong/engine"
-	"github.com/huichen/wukong/types"
 	"log"
 	"os"
 	"reflect"
 	"strconv"
 	"strings"
+
+	"github.com/riverlaker/wukong/engine"
+	"github.com/riverlaker/wukong/types"
 )
 
 const (

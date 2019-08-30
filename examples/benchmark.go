@@ -13,8 +13,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/huichen/wukong/engine"
-	"github.com/huichen/wukong/types"
+	"github.com/riverlaker/wukong/engine"
+	"github.com/riverlaker/wukong/types"
 )
 
 const (

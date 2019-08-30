@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/huichen/gobo"
-	"github.com/huichen/gobo/contrib"
+	"github.com/riverlaker/gobo"
+	"github.com/riverlaker/gobo/contrib"
 	"io/ioutil"
 	"log"
 	"os"

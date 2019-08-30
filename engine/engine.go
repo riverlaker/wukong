@@ -2,12 +2,12 @@ package engine
 
 import (
 	"fmt"
-	"github.com/huichen/murmur"
-	"github.com/huichen/sego"
-	"github.com/huichen/wukong/core"
-	"github.com/huichen/wukong/storage"
-	"github.com/huichen/wukong/types"
-	"github.com/huichen/wukong/utils"
+	"github.com/riverlaker/murmur"
+	"github.com/riverlaker/sego"
+	"github.com/riverlaker/wukong/core"
+	"github.com/riverlaker/wukong/storage"
+	"github.com/riverlaker/wukong/types"
+	"github.com/riverlaker/wukong/utils"
 	"log"
 	"os"
 	"runtime"

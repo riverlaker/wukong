@@ -2,8 +2,8 @@ package engine
 
 import (
 	"encoding/gob"
-	"github.com/huichen/wukong/types"
-	"github.com/huichen/wukong/utils"
+	"github.com/riverlaker/wukong/types"
+	"github.com/riverlaker/wukong/utils"
 	"os"
 	"reflect"
 	"testing"
