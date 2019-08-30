@@ -2,8 +2,8 @@ package engine
 
 import (
 	"fmt"
-	"github.com/riverlaker/murmur"
-	"github.com/riverlaker/sego"
+	"github.com/huichen/murmur"
+	"github.com/huichen/sego"
 	"github.com/riverlaker/wukong/core"
 	"github.com/riverlaker/wukong/storage"
 	"github.com/riverlaker/wukong/types"
